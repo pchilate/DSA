@@ -1,1 +1,2 @@
-The Count of Digits is:  3
+The value of x is: 660
+The value of y is : 6422400
