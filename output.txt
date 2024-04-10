@@ -1,2 +1,1 @@
-The value of x: 1
-The value of y: 500
+The Count of Digits is:  3
