@@ -1,0 +1,2 @@
+The value of x: 1
+The value of y: 500
