@@ -6,8 +6,8 @@ int main()
 {
     int x, y;
     cin >> x >> y;
-    cout << "The value of x: " << x << endl
-         << "The value of y: " << y;
+    cout << "The value of x is: " << x << endl
+         << "The value of y is : " << y;
 
     return 0;
 }
