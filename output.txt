@@ -1,2 +1,1 @@
-The value of x is: 660
-The value of y is : 6422400
+The number is palindrome
