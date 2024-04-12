@@ -19,4 +19,5 @@ int main()
     int num;
     cin >> num;
     cout << "This is the output: " << reverseDigit(num);
+    return 0;
 }
