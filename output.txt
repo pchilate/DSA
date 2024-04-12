@@ -1,1 +1,1 @@
-The number is palindrome
+The GCD Of the Given Pair if number is : 4

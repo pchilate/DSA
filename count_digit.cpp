@@ -27,4 +27,5 @@ int main()
     int num;
     cin >> num;
     cout << "The Count of Digits is:  " << countDigits(num);
+    return 0;
 }
