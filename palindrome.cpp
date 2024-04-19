@@ -22,4 +22,5 @@ int main()
     int num;
     cin >> num;
     checkPalindrome(num);
+    return 0;
 }

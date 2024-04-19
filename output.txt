@@ -1,1 +1,6 @@
-The number is palindrome
+a appears 2 times
+b appears 1 times
+c appears 1 times
+e appears 1 times
+z appears 0 times
+f appears 3 times
