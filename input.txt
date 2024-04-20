@@ -1,8 +1,2 @@
-abcdafffe
-6
-a
-b
-c
-e
-z
-f
+2 7 11 15
+9
